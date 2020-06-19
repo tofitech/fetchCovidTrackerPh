@@ -1,0 +1,20 @@
+
+.elfsight-app-714c7c23-f48b-44fa-af9b-c95fd1ccb483 {
+    position: relative;
+}
+
+body {
+    background: whitesmoke;
+}
+
+.cover {
+    position:absolute;
+    padding:80px 80px 80px 0;
+    background: whitesmoke;
+    top: 7712px;
+    width:100%;
+    z-index: 2;
+    margin-top:19px;
+    
+}
+
